@@ -1,0 +1,68 @@
+[
+    {
+        "type": "LANGUAGE",
+        "list": [
+            "C#",
+            "Dart ( trying to learn )",
+            "Go ( trying to learn )",
+            "JavaScript",
+            "TypeScript"
+        ]
+    },
+    {
+        "type": "FRAMEWORK/LIBRARY",
+        "list": [
+            ".NET5",
+            "Angular",
+            "Express",
+            "Flutter ( trying to learn )",
+            "Ionic",
+            "NestJS",
+            "NodeJS"
+        ]
+    },
+    {
+        "type": "DATABASE",
+        "list": [
+            "MongoDB",
+            "MSSQL",
+            "PostgreSQL",
+            "Redis",
+            "SQLite"
+        ]
+    },
+    {
+        "type": "CLOUD & CONTAINERS",
+        "list": [
+            "Azure Blob Storage",
+            "Azure Cloud Function",
+            "Azure Container Registry",
+            "Azure CosmosDB",
+            "Azure Virtual Machine"
+        ]
+    },
+    {
+        "type": "MISC",
+        "list": [
+            "Giithub Actions",
+            "REST",
+            "Testing ( Cypress, Jest, Xunit & NUnit )"
+        ]
+    },
+    {
+        "type": "TOOLS",
+        "list": [
+            "BitBucket",
+            "Docker Compose",
+            "Docker",
+            "Git",
+            "PM2",
+            "Rider",
+            "Studio 3T",
+            "Visual Studio",
+            "VS Code",
+            "WebStrorm",
+            "Many More..."
+        ]
+    }
+]
