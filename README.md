@@ -1,2 +1,3 @@
-# portfolio_api
-api serving repo of sefatanam.me
+# Portfolio API
+
+A api serving repo of [sefatanam.me](sefatanam.me)
