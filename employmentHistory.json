@@ -3,6 +3,7 @@
     "designation":"Software Engineer",
     "companyName":"Metadesign Solutions",
     "duration":"1 March 2022 - Present",
+    "companyLogo":"https://media-exp1.licdn.com/dms/image/C560BAQHHRWKlwdMTDw/company-logo_200_200/0/1640695593875?e=2147483647&v=beta&t=zgd21L6HaIzBYXi5-L9zrRJ5asxk01TcUT4tx-KLVkQ",
     "companyUrl":"https://metadesignsolutions.com/metadesignsolutions.com/home",
     "contributions":[
       "- Implementing new feature in existing e-learning platform with NodeJS, MongoDB & Angular"  
@@ -11,8 +12,9 @@
   {
     "designation":"Software Engineer",
     "companyName":"Metadesign Solutions",
-    "duration":"1 March 2022 - Present",
+    "duration":"1 April 2022 - 30 March 2022",
     "companyUrl":"https://aitsidea.com",
+    "companyLogo":"https://avatars.githubusercontent.com/u/69040480?s=280&v=4",
     "contributions":[
        "Served 2 mobile app using Ionic & tailwindcss with 2 language support ( english and bangla )",
 "Developed House & Rent module's API in backend in .NET5 & frontend with from scratch",
