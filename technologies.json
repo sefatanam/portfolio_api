@@ -34,6 +34,7 @@
     {
         "type": "CLOUD & CONTAINERS",
         "list": [
+            "AWS Amplify",
             "Azure Blob Storage",
             "Azure Cloud Function",
             "Azure Container Registry",
