@@ -1,0 +1,9 @@
+[
+  {
+    "description": "An Open-Source E2E-Ecommerce API Provider using [.NET5, XUnit, EF-Core, Docker, Redis, IdentidyServer,MediatR]",
+    "link": {
+      "url": "https://github.com/nixgram/ZCommerce",
+      "text": "nixgram/ZCommerce"
+    }
+  }
+]
