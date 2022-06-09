@@ -9,8 +9,7 @@
     "description":"☢ A simple package for secure local storage data by encryption using Crypto.JS",
     "link":{
       "url":"https://www.npmjs.com/package/crypto-browser-storage",
-      "text":"crypto-browser-storage
-"
+      "text":"crypto-browser-storage"
     }
   }
 ]
