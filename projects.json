@@ -11,5 +11,12 @@
       "url":"https://www.npmjs.com/package/crypto-browser-storage",
       "text":"crypto-browser-storage"
     }
+  },{
+    "description":"Yet another angular skeleton. 🎉 But, with all the things you need for your next enterprise level application. Minimum dependency, maximum productivity.",
+    "link":{
+    "url":"https://github.com/nixgram/nixng",
+      "text":"nixgram/nixng"
+    }
+    
   }
 ]
