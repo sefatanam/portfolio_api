@@ -18,5 +18,48 @@
       "text":"nixgram/nixng"
     }
     
+  },
+  {
+    "description":"Fundamentals of developing chrome extensions v3.",
+    "link":{
+    "url":"https://github.com/sefatanam/chrome-extention-basics",
+      "text":"chrome-extension"
+    }
+    
+  },
+   {
+    "description":"Nodejs app deploy in heroku with Authentication & MongoDB",
+    "link":{
+    "url":"https://github.com/sefatanam/node-heroku",
+      "text":"nodejs-heroku"
+    }
+  },
+   {
+    "description":"trying out the most controversial feature of new release of .NET6 , the minimal API, welcome to the playground.",
+    "link":{
+    "url":"https://github.com/sefatanam/MInimalAPI",
+      "text":"MinimalAPI .NET6"
+    }
+    
+  },
+  {
+    "description":"Find synonyms of any word from terminal, Build with C#",
+    "link":{
+    "url":"https://github.com/sefatanam/WordsCli",
+      "text":"sefatanam/WordsCli"
+    }
+  },
+   {
+    "description":"Data Structure & Algorithm Practice",
+    "link":{
+    "url":"https://github.com/sefatanam/DS-ALGO",
+      "text":"DS-ALGO"
+    }
   }
 ]
+
+
+
+
+
+
