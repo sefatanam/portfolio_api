@@ -55,8 +55,16 @@
     "url":"https://github.com/sefatanam/DS-ALGO",
       "text":"DS-ALGO"
     }
+  },
+    {
+    "description":"Simple & cleaner portfolio for showing you skill, projects & art.",
+    "link":{
+    "url":"https://github.com/sefatanam/portfolio",
+      "text":"sefatanam/portfolio"
+    }
   }
 ]
+
 
 
 
