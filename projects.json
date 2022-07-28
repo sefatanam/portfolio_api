@@ -43,7 +43,7 @@
     
   },
   {
-    "description":"Find synonyms of any word from terminal, Build with C#",
+    "description":"Find synonyms of any word from terminal, Build with C#. You can also install via nuget package from here https://www.nuget.org/packages/WordsCli.",
     "link":{
     "url":"https://github.com/sefatanam/WordsCli",
       "text":"sefatanam/WordsCli"
