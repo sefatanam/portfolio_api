@@ -1,5 +1,9 @@
 [
-    
+     {
+        "publush_date":"April 23, 2023",
+        "title" : "Must-know Javascript object property security",
+        "link" :"https://dev.to/sefatanam/must-know-javascript-object-property-security-1jfa"
+    },
     {
         "publish_date": "May 19, 2022",
         "title": "Angular, AWS Amplify manage mutiple environment diff based backend in easy way",
