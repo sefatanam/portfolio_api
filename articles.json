@@ -1,5 +1,9 @@
 [
      {
+        "publish_date": " Feb 7, 2024",
+        "title": "Share data natively from mobile to PWA app",
+        "link": "https://dev.to/sefatanam/share-data-natively-from-mobile-to-pwa-app-4o7c"
+    },{
         "publish_date":"April 23, 2023",
         "title" : "Must-know Javascript object property security",
         "link" :"https://dev.to/sefatanam/must-know-javascript-object-property-security-1jfa"
@@ -29,10 +33,5 @@
         "publish_date": " Jan 29, 2020",
         "title": "Blazor — Enable Auto Reload or Hot Loading in client-side and server-side ASP.net Core App [ Simple way ]",
         "link": "https://medium.com/@sefatanam/blazor-enable-auto-reload-or-hot-loading-in-client-side-and-server-side-asp-net-5f6ca38d6d80"
-    },
-     {
-        "publish_date": " Feb 7, 2024",
-        "title": "Share data natively from mobile to PWA app",
-        "link": "https://dev.to/sefatanam/share-data-natively-from-mobile-to-pwa-app-4o7c"
     }
 ]
