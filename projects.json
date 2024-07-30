@@ -1,5 +1,33 @@
 [
   {
+    "description": "A minimal youtube videos organizer, to reduce your pain",
+    "link":{
+        "url":"https://github.com/sefatanam/re-tube",
+        "text":"sefatanam/re-tube"
+    }
+  },
+  {
+    "description": "Script Starter is a Go-based project template designed to help developers quickly set up and start working on new applications. Watch a live action video what I did from YouTube https://youtu.be/Ny0XSw_kvCs",
+    "link":{
+        "url":"https://github.com/sefatanam/script-starter",
+        "text":"sefatanam/script-starter"
+    }
+  },
+   {
+    "description": "This project is built with Svelte and allows users to create custom Spotify cover images with various presets, high-quality image export, and a live preview feature. Live Preview in youtube ",
+    "link":{
+        "url":"https://github.com/sefatanam/spotify-cover-generator",
+        "text":"sefatanam/spotify-cover-generator"
+    }
+  },
+  {
+    "description": "Pretty Home is a VS Code extension designed to enhance the appearance of your recent projects view, making it more organized and visually appealing",
+    "link":{
+        "url":"https://github.com/sefatanam/vscode-pretty-home",
+        "text":"sefatanam/vscode-pretty-home"
+    }
+  },
+  {
     "description": "Nx workspace with Angular, Prisma, NestJS, Cypress & Docker.",
     "link":{
         "url":"https://github.com/sefatanam/fullstack-app",
