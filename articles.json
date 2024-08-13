@@ -1,5 +1,9 @@
 [
-     {
+    {
+        "publish_date": " Aug 13, 2024",
+        "title": "Angular DI Token - What makes app beautiful !",
+        "link": "https://medium.com/@sefatanam/angular-di-token-what-makes-app-beautiful-7ff63d5a2121"
+    }, {
         "publish_date": " Feb 7, 2024",
         "title": "Share Data Between Mobile and PWA Apps",
         "link": "https://dev.to/sefatanam/share-data-natively-from-mobile-to-pwa-app-4o7c"
