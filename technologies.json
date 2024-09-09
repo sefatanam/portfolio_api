@@ -2,9 +2,7 @@
     {
         "type": "LANGUAGE",
         "list": [
-            "C#",
-            "Dart ( trying to learn )",
-            "Go ( trying to learn )",
+            "Go (learning)",
             "JavaScript",
             "TypeScript"
         ]
@@ -12,13 +10,14 @@
     {
         "type": "FRAMEWORK/LIBRARY",
         "list": [
-            ".NET5",
             "Angular",
             "Express",
-            "Flutter ( trying to learn )",
             "Ionic",
             "NestJS",
-            "NodeJS"
+            "NodeJS",
+            "Svelte",
+            "Fyne",
+            "Fiber"
         ]
     },
     {
@@ -39,15 +38,20 @@
             "Azure Cloud Function",
             "Azure Container Registry",
             "Azure CosmosDB",
-            "Azure Virtual Machine"
+            "Azure Virtual Machine",
+            "AWS EC2",
+            "AWS S3 BUCKET"
         ]
     },
     {
         "type": "MISC",
         "list": [
             "Giithub Actions",
-            "REST",
-            "Testing ( Cypress, Jest, Xunit & NUnit )"
+            "Cypress",
+            "Jasmine",
+            "TravisCI",
+            "Vitest",
+            "Jest"
         ]
     },
     {
@@ -60,9 +64,10 @@
             "PM2",
             "Rider",
             "Studio 3T",
-            "Visual Studio",
             "VS Code",
             "WebStrorm",
+            "Figma",
+            "Orbstack",
             "Many More..."
         ]
     }
