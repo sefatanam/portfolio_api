@@ -8,16 +8,20 @@
         ]
     },
     {
-        "type": "FRAMEWORK/LIBRARY",
+        "type": "TOOLS",
         "list": [
-            "Angular",
-            "Express",
-            "Ionic",
-            "NestJS",
-            "NodeJS",
-            "Svelte",
-            "Fyne",
-            "Fiber"
+            "BitBucket",
+            "Docker Compose",
+            "Docker",
+            "Git",
+            "PM2",
+            "Rider",
+            "Studio 3T",
+            "VS Code",
+            "WebStrorm",
+            "Figma",
+            "Orbstack",
+            "Many More..."
         ]
     },
     {
@@ -53,22 +57,18 @@
             "Vitest",
             "Jest"
         ]
-    },
+    }, 
     {
-        "type": "TOOLS",
+        "type": "FRAMEWORK/LIBRARY",
         "list": [
-            "BitBucket",
-            "Docker Compose",
-            "Docker",
-            "Git",
-            "PM2",
-            "Rider",
-            "Studio 3T",
-            "VS Code",
-            "WebStrorm",
-            "Figma",
-            "Orbstack",
-            "Many More..."
+            "Angular",
+            "Express",
+            "Ionic",
+            "NestJS",
+            "NodeJS",
+            "Svelte",
+            "Fyne",
+            "Fiber"
         ]
     }
 ]
