@@ -6,7 +6,7 @@
         "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQFcGWSky-ldvA/company-logo_200_200/0/1630543675743?e=2147483647&v=beta&t=Fef6CeMGvIMXtPOFhHP8WPj14SFHzvjS5ckaYyiIUWM",
         "companyUrl": "https://driftingdesk.com",
         "contributions": [
-            "Responsible for developing & maintaining a web based document management tools used by millions in Germany."
+            "Contributor to web based document management tools (frontend) used in Germany, known as MetasonicOne’s (https://allgeier-inovar.de/dokumentenmanagement) OneClient and WebCapture.My role involves integrating new features with existing well-established functionalities. This includes converting complex data shapes into Excel format, facilitating communication between browser tabs instance within the same application, and highlighting coordinates based on pre-selected table data in documents (PDF or image) using the Leadtools library in vanilla JavaScript for WebCapture App. Additionally, I contribute to enhancing the UI and performance of custom components by optimizing change detection mechanisms. I also specialize in customizing and refining the behavior of components across the app."
         ]
     },
     {
